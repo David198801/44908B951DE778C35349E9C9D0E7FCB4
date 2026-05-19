@@ -1,0 +1,1 @@
+朱雀检测，https://matrix.tencent.com/ai-detect/ai_gen，文本、图片
