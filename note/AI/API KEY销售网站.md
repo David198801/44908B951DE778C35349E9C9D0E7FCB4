@@ -57,14 +57,28 @@ https://worldclaw.ai/
 
 
 
-# 国产
+
+
+
+
+# 酒馆
 
 deepseek官网
 
 硅基流动
 
-小马算力
+opencode go
 
 百度千帆
 
-联通
+小马算力
+
+openrouter
+
+chutes
+
+Venice.ai
+
+火山方舟（仅豆包填表，其余有外审）
+
+AiHubMix
