@@ -12,6 +12,8 @@ packy，https://www.packyapi.com/，临时，密码123
 
 无限，https://infai.cc/
 
+https://anyrouter.top/login
+
 # 中转-AI编程
 
 https://foxcode.rjj.cc/
@@ -19,6 +21,8 @@ https://foxcode.rjj.cc/
 https://aicodeditor.com/
 
 https://duckcoding.com/
+
+https://www.aicodexcn.com/
 
 
 
@@ -31,9 +35,18 @@ openrouter：禁止中国使用gpt、claude
 别用openrouter了，模型多但是限制也也来越多了，原价拿API的渠道也很多，zen和其他渠道都是原价的，完全不限制IP和支付渠道：
 Vercel AI Gateway原价，模型也多，宣称0加价，貌似是没有额外手续费的
 Cloudflare AI Gateway现在也是国内外模型都有，但之前中转的时候IP好像是透传的来着
-ZenMux，模型也多，支持支付宝，应该是折腾最少的渠道，充值好像和汇率有关，有时候比原价更便宜
-OpenCode Zen，模型不多不全，但都是精选的每家最强的模型或者最有性价比的小模型，功能是coding为主，也是可以放在任意地方调用，原件API，但是有4.4%手续费，跟or的5.5%手续费差不多
-Portkey模型也多，但是偏团队使用
+ZenMux，https://zenmux.ai/，模型也多，支持支付宝，应该是折腾最少的渠道，充值好像和汇率有关，有时候比原价更便宜
+OpenCode Zen/OpenCode go，模型不多不全，但都是精选的每家最强的模型或者最有性价比的小模型，功能是coding为主，也是可以放在任意地方调用，原件API，但是有4.4%手续费，跟openrouter的5.5%手续费差不多
+
+azure
+
+https://www.cerebras.ai/
+
+Portkey，https://portkey.ai/ 模型也多，但是偏团队使用
+
+POE，https://poe.com/
+
+ofox，https://ofox.ai/zh
 
 http://easyrouter.io/
 
@@ -41,3 +54,31 @@ http://easyrouter.io/
 https://b.ai/
 
 https://worldclaw.ai/
+
+
+
+
+
+
+
+# 酒馆
+
+deepseek官网
+
+硅基流动
+
+opencode go
+
+百度千帆
+
+小马算力
+
+openrouter
+
+chutes
+
+Venice.ai
+
+火山方舟（仅豆包填表，其余有外审）
+
+AiHubMix
