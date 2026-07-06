@@ -12,7 +12,7 @@ packy，https://www.packyapi.com/，临时，密码123
 
 无限，https://infai.cc/
 
-https://anyrouter.top/login
+
 
 # 中转-AI编程
 
@@ -72,6 +72,8 @@ opencode go
 百度千帆
 
 小马算力
+
+https://pioneer.ai/
 
 openrouter
 
