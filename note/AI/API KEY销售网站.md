@@ -36,7 +36,10 @@ openrouter：禁止中国使用gpt、claude
 Vercel AI Gateway原价，模型也多，宣称0加价，貌似是没有额外手续费的
 Cloudflare AI Gateway现在也是国内外模型都有，但之前中转的时候IP好像是透传的来着
 ZenMux，https://zenmux.ai/，模型也多，支持支付宝，应该是折腾最少的渠道，充值好像和汇率有关，有时候比原价更便宜
-OpenCode Zen/OpenCode go，模型不多不全，但都是精选的每家最强的模型或者最有性价比的小模型，功能是coding为主，也是可以放在任意地方调用，原件API，但是有4.4%手续费，跟openrouter的5.5%手续费差不多
+
+OpenCode Zen/OpenCode go
+
+OpenCode 俄罗斯销售网站，https://plati.market/itm/opencode-opencode-ai-1-month-delivery-fast/5926963
 
 azure
 
