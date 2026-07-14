@@ -20,8 +20,6 @@ https://foxcode.rjj.cc/
 
 https://aicodeditor.com/
 
-https://duckcoding.com/
-
 https://www.aicodexcn.com/
 
 
@@ -33,7 +31,6 @@ https://api.oaipro.com/topup
 openrouter：禁止中国使用gpt、claude
 
 别用openrouter了，模型多但是限制也也来越多了，原价拿API的渠道也很多，zen和其他渠道都是原价的，完全不限制IP和支付渠道：
-Vercel AI Gateway原价，模型也多，宣称0加价，貌似是没有额外手续费的
 Cloudflare AI Gateway现在也是国内外模型都有，但之前中转的时候IP好像是透传的来着
 ZenMux，https://zenmux.ai/，模型也多，支持支付宝，应该是折腾最少的渠道，充值好像和汇率有关，有时候比原价更便宜
 
@@ -64,6 +61,10 @@ https://worldclaw.ai/
 
 
 
+
+
+
+
 # 酒馆
 
 deepseek官网
@@ -84,6 +85,22 @@ chutes
 
 Venice.ai
 
+Vercel AI Gateway，glm设置好路由，用zai的会有外审
+
 火山方舟（仅豆包填表，其余有外审）
 
 AiHubMix
+
+
+
+# 无审查/低审查
+
+https://venice.ai/models
+
+https://www.arliai.com/，开源模型
+
+https://infermatic.ai/
+
+https://featherless.ai/，开源模型
+
+LM studio，搜索crack、uncensored模型本地部署
