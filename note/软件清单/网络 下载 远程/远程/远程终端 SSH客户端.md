@@ -10,9 +10,7 @@ mobaxterm，注册码生成 https://inused.github.io/pages/file/tool/MobaXtermKe
 
 Tabby
 
-WindTerm
-
-finalshell
+Netcatty
 
 Electerm，https://github.com/electerm/electerm
 
@@ -25,3 +23,7 @@ graSSHopper
 nxshell
 
 simpleremote
+
+WindTerm
+
+finalshell
