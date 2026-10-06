@@ -48,5 +48,7 @@ rpm   -ql jdk1.8
 
 
 
+ojdbc下载
 
+https://www.oracle.com/database/technologies/appdev/jdbc-downloads.html
 

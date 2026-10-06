@@ -1,3 +1,14 @@
+# 自动
+
+```javascript
+ssh-keygen -t ed25519
+ssh-copy-id user@host
+```
+
+
+
+# 手动方法
+
 ssh-keygen的使用方法及配置authorized_keys两台linux机器相互认证
 
 https://blog.csdn.net/simploving/article/details/79631588

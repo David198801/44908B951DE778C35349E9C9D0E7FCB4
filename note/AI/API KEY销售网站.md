@@ -1,8 +1,8 @@
-# 中转-chat
+# 转-chat
 
 购买apikey，apikey销售网站
 
-云雾，https://yunwu.ai/documentation，linux.do，临时微软
+云雾，https://api.openlux.ai/，linux.do，临时微软，默认密码
 
 v-api，https://api.gpt.ge/panel，临时网易，默认密码
 
@@ -12,31 +12,29 @@ packy，https://www.packyapi.com/，临时，密码123
 
 无限，https://infai.cc/
 
+https://api.oaipro.com/topup
+
 
 
 # 中转-AI编程
 
-https://foxcode.rjj.cc/
+https://foxcode.rjj.cc/，临时微软，默认密码
 
 https://aicodeditor.com/
 
-https://www.aicodexcn.com/
+https://hello-code.cn/，临时微软，简单密码
+
+https://www.hi-code.cc/keys，临时微软，简单密码
 
 
 
 # 原价
 
-https://api.oaipro.com/topup
-
 openrouter：禁止中国使用gpt、claude
-
-别用openrouter了，模型多但是限制也也来越多了，原价拿API的渠道也很多，zen和其他渠道都是原价的，完全不限制IP和支付渠道：
 Cloudflare AI Gateway现在也是国内外模型都有，但之前中转的时候IP好像是透传的来着
 ZenMux，https://zenmux.ai/，模型也多，支持支付宝，应该是折腾最少的渠道，充值好像和汇率有关，有时候比原价更便宜
 
 OpenCode Zen/OpenCode go
-
-OpenCode 俄罗斯销售网站，https://plati.market/itm/opencode-opencode-ai-1-month-delivery-fast/5926963
 
 azure
 
@@ -49,6 +47,14 @@ POE，https://poe.com/
 ofox，https://ofox.ai/zh
 
 http://easyrouter.io/
+
+Command Code
+
+CometAPI
+
+AIMLAPI
+
+easyrouter
 
 
 https://b.ai/

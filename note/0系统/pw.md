@@ -70,6 +70,8 @@ vpn
 
 git:
 
+**需要用chrome访问！**
+
 新http://192.168.101.212:8929/
 
 http://192.168.101.212:8929/acs/businesssystemxc/code/support/fundacc
